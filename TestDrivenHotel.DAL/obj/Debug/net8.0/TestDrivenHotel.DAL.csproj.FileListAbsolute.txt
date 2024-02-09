@@ -1,0 +1,13 @@
+C:\Users\ligia\Documents\OOP_AI\OOP_Avancerad\SLUTPROJEKT\TestDrivenHotel\test-driven-hotel\TestDrivenHotel.DAL\bin\Debug\net8.0\TestDrivenHotel.DAL.deps.json
+C:\Users\ligia\Documents\OOP_AI\OOP_Avancerad\SLUTPROJEKT\TestDrivenHotel\test-driven-hotel\TestDrivenHotel.DAL\bin\Debug\net8.0\TestDrivenHotel.DAL.dll
+C:\Users\ligia\Documents\OOP_AI\OOP_Avancerad\SLUTPROJEKT\TestDrivenHotel\test-driven-hotel\TestDrivenHotel.DAL\bin\Debug\net8.0\TestDrivenHotel.DAL.pdb
+C:\Users\ligia\Documents\OOP_AI\OOP_Avancerad\SLUTPROJEKT\TestDrivenHotel\test-driven-hotel\TestDrivenHotel.DAL\obj\Debug\net8.0\TestDrivenHotel.DAL.csproj.AssemblyReference.cache
+C:\Users\ligia\Documents\OOP_AI\OOP_Avancerad\SLUTPROJEKT\TestDrivenHotel\test-driven-hotel\TestDrivenHotel.DAL\obj\Debug\net8.0\TestDrivenHotel.DAL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ligia\Documents\OOP_AI\OOP_Avancerad\SLUTPROJEKT\TestDrivenHotel\test-driven-hotel\TestDrivenHotel.DAL\obj\Debug\net8.0\TestDrivenHotel.DAL.AssemblyInfoInputs.cache
+C:\Users\ligia\Documents\OOP_AI\OOP_Avancerad\SLUTPROJEKT\TestDrivenHotel\test-driven-hotel\TestDrivenHotel.DAL\obj\Debug\net8.0\TestDrivenHotel.DAL.AssemblyInfo.cs
+C:\Users\ligia\Documents\OOP_AI\OOP_Avancerad\SLUTPROJEKT\TestDrivenHotel\test-driven-hotel\TestDrivenHotel.DAL\obj\Debug\net8.0\TestDrivenHotel.DAL.csproj.CoreCompileInputs.cache
+C:\Users\ligia\Documents\OOP_AI\OOP_Avancerad\SLUTPROJEKT\TestDrivenHotel\test-driven-hotel\TestDrivenHotel.DAL\obj\Debug\net8.0\TestDrivenHotel.DAL.sourcelink.json
+C:\Users\ligia\Documents\OOP_AI\OOP_Avancerad\SLUTPROJEKT\TestDrivenHotel\test-driven-hotel\TestDrivenHotel.DAL\obj\Debug\net8.0\TestDrivenHotel.DAL.dll
+C:\Users\ligia\Documents\OOP_AI\OOP_Avancerad\SLUTPROJEKT\TestDrivenHotel\test-driven-hotel\TestDrivenHotel.DAL\obj\Debug\net8.0\refint\TestDrivenHotel.DAL.dll
+C:\Users\ligia\Documents\OOP_AI\OOP_Avancerad\SLUTPROJEKT\TestDrivenHotel\test-driven-hotel\TestDrivenHotel.DAL\obj\Debug\net8.0\TestDrivenHotel.DAL.pdb
+C:\Users\ligia\Documents\OOP_AI\OOP_Avancerad\SLUTPROJEKT\TestDrivenHotel\test-driven-hotel\TestDrivenHotel.DAL\obj\Debug\net8.0\ref\TestDrivenHotel.DAL.dll

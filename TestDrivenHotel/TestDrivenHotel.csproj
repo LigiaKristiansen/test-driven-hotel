@@ -6,4 +6,9 @@
     <ImplicitUsings>enable</ImplicitUsings>
   </PropertyGroup>
 
+  <ItemGroup>
+    <ProjectReference Include="..\TestDrivenHotel.BLL\TestDrivenHotel.BLL.csproj" />
+    <ProjectReference Include="..\TestDrivenHotel.DAL\TestDrivenHotel.DAL.csproj" />
+  </ItemGroup>
+
 </Project>

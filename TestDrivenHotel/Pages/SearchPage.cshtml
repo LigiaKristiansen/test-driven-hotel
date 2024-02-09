@@ -1,0 +1,26 @@
+﻿@page
+@model TestDrivenHotel.Pages.SearchPageModel
+@{
+    ViewData["Title"] = "Search Page";
+}
+
+<h1>Search Page</h1>
+
+<form method="post">
+    <div class="form-group">
+        <label for="checkInDate">Check-In Date:</label>
+        <input type="date" class="form-control" id="checkInDate" name="Booking.CheckInDate" required>
+    </div>
+    <div class="form-group">
+        <label for="checkOutDate">Check-Out Date:</label>
+        <input type="date" class="form-control" id="checkOutDate" name="Booking.CheckOutDate" required>
+    </div>
+    <div class="form-group">
+        <label for="roomType">Room Type:</label>
+        <select class="form-control" id="roomType" name="Booking.RoomType" required>
+            <option value="Single">Single</option>
+            <option value="Double">Double</option>
+        </select>
+    </div>
+    <button type="submit" class="btn btn-primary">Search Available Rooms</button>
+</form>

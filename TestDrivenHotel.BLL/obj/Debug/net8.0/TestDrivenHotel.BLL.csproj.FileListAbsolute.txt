@@ -1,0 +1,16 @@
+C:\Users\ligia\Documents\OOP_AI\OOP_Avancerad\SLUTPROJEKT\TestDrivenHotel\test-driven-hotel\TestDrivenHotel.BLL\bin\Debug\net8.0\TestDrivenHotel.BLL.deps.json
+C:\Users\ligia\Documents\OOP_AI\OOP_Avancerad\SLUTPROJEKT\TestDrivenHotel\test-driven-hotel\TestDrivenHotel.BLL\bin\Debug\net8.0\TestDrivenHotel.BLL.dll
+C:\Users\ligia\Documents\OOP_AI\OOP_Avancerad\SLUTPROJEKT\TestDrivenHotel\test-driven-hotel\TestDrivenHotel.BLL\bin\Debug\net8.0\TestDrivenHotel.BLL.pdb
+C:\Users\ligia\Documents\OOP_AI\OOP_Avancerad\SLUTPROJEKT\TestDrivenHotel\test-driven-hotel\TestDrivenHotel.BLL\bin\Debug\net8.0\TestDrivenHotel.DAL.dll
+C:\Users\ligia\Documents\OOP_AI\OOP_Avancerad\SLUTPROJEKT\TestDrivenHotel\test-driven-hotel\TestDrivenHotel.BLL\bin\Debug\net8.0\TestDrivenHotel.DAL.pdb
+C:\Users\ligia\Documents\OOP_AI\OOP_Avancerad\SLUTPROJEKT\TestDrivenHotel\test-driven-hotel\TestDrivenHotel.BLL\obj\Debug\net8.0\TestDrivenHotel.BLL.csproj.AssemblyReference.cache
+C:\Users\ligia\Documents\OOP_AI\OOP_Avancerad\SLUTPROJEKT\TestDrivenHotel\test-driven-hotel\TestDrivenHotel.BLL\obj\Debug\net8.0\TestDrivenHotel.BLL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ligia\Documents\OOP_AI\OOP_Avancerad\SLUTPROJEKT\TestDrivenHotel\test-driven-hotel\TestDrivenHotel.BLL\obj\Debug\net8.0\TestDrivenHotel.BLL.AssemblyInfoInputs.cache
+C:\Users\ligia\Documents\OOP_AI\OOP_Avancerad\SLUTPROJEKT\TestDrivenHotel\test-driven-hotel\TestDrivenHotel.BLL\obj\Debug\net8.0\TestDrivenHotel.BLL.AssemblyInfo.cs
+C:\Users\ligia\Documents\OOP_AI\OOP_Avancerad\SLUTPROJEKT\TestDrivenHotel\test-driven-hotel\TestDrivenHotel.BLL\obj\Debug\net8.0\TestDrivenHotel.BLL.csproj.CoreCompileInputs.cache
+C:\Users\ligia\Documents\OOP_AI\OOP_Avancerad\SLUTPROJEKT\TestDrivenHotel\test-driven-hotel\TestDrivenHotel.BLL\obj\Debug\net8.0\TestDrivenHotel.BLL.sourcelink.json
+C:\Users\ligia\Documents\OOP_AI\OOP_Avancerad\SLUTPROJEKT\TestDrivenHotel\test-driven-hotel\TestDrivenHotel.BLL\obj\Debug\net8.0\TestDrivenHotel.BLL.csproj.CopyComplete
+C:\Users\ligia\Documents\OOP_AI\OOP_Avancerad\SLUTPROJEKT\TestDrivenHotel\test-driven-hotel\TestDrivenHotel.BLL\obj\Debug\net8.0\TestDrivenHotel.BLL.dll
+C:\Users\ligia\Documents\OOP_AI\OOP_Avancerad\SLUTPROJEKT\TestDrivenHotel\test-driven-hotel\TestDrivenHotel.BLL\obj\Debug\net8.0\refint\TestDrivenHotel.BLL.dll
+C:\Users\ligia\Documents\OOP_AI\OOP_Avancerad\SLUTPROJEKT\TestDrivenHotel\test-driven-hotel\TestDrivenHotel.BLL\obj\Debug\net8.0\TestDrivenHotel.BLL.pdb
+C:\Users\ligia\Documents\OOP_AI\OOP_Avancerad\SLUTPROJEKT\TestDrivenHotel\test-driven-hotel\TestDrivenHotel.BLL\obj\Debug\net8.0\ref\TestDrivenHotel.BLL.dll
