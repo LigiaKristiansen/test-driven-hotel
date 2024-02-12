@@ -13,7 +13,7 @@ namespace TestDrivenHotel.Pages
 
         public SearchPageModel()
         {
-            _repository = new HotelRepository(); // Initialize the repository
+            _repository = new HotelRepository();
         }
 
         public IActionResult OnGet()
@@ -22,8 +22,7 @@ namespace TestDrivenHotel.Pages
         }
 
         public IActionResult OnPostSearch()
-        {
-            // Redirect to the booking page with search criteria
+        {            
             return RedirectToPage("/BookingPage", new { checkInDate = Booking.CheckInDate, checkOutDate = Booking.CheckOutDate });
         }
     }

@@ -46,7 +46,7 @@ namespace TestDrivenHotel.Tests
             var booking = new Booking("John Doe", 1, DateTime.Now.AddDays(1), DateTime.Now.AddDays(3));
 
             // When
-            // Book the room once to make it unavailable
+           
             repository.BookRoom(booking);
             // Attempt to book the same room again
             var result = repository.BookRoom(booking);

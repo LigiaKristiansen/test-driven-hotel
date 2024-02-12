@@ -18,7 +18,7 @@ namespace TestDrivenHotel.Pages
 
         public BookingPageModel()
         {
-            _repository = new HotelRepository(); // Initialize the repository
+            _repository = new HotelRepository(); 
         }
 
         public IActionResult OnGet()
@@ -33,21 +33,20 @@ namespace TestDrivenHotel.Pages
                 return Page();
             }
 
-            // Attempt to book the room
+            
             if (_repository.BookRoom(Booking))
             {
-                return RedirectToPage("/ConfirmationPage"); // Redirect to confirmation page on successful booking
+                return RedirectToPage("/ConfirmationPage"); 
             }
             else
             {
-                TempData["ErrorMessage"] = "Room is not available for the selected dates."; // Display error message if room is not available
+                TempData["ErrorMessage"] = "Room is not available for the selected dates."; 
                 return Page();
             }
         }
 
         public IActionResult OnPostSearch()
-        {
-            // Get available rooms based on the search criteria
+        {            
             AvailableRooms = _repository.GetAvailableRooms(Booking.CheckInDate, Booking.CheckOutDate);
             return Page();
         }

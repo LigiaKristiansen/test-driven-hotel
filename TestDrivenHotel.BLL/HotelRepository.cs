@@ -26,17 +26,15 @@ namespace TestDrivenHotel.BLL
             if (roomToBook != null)
             {
                 roomToBook.IsAvailable = false;
-                // Additional logic to save booking details if needed
+                
                 return true;
             }
             return false;
         }
 
-        // Helper method to get room ids that are booked within a specific date range
+        
         private List<int> GetBookedRoomIds(DateTime checkInDate, DateTime checkOutDate)
-        {
-            // Logic to fetch booked room ids within the specified date range
-            // For simplicity, returning an empty list
+        {            
             return new List<int>();
         }
     }

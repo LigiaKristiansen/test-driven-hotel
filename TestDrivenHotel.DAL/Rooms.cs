@@ -31,8 +31,7 @@
         {
             return _rooms.Find(room => room.RoomId == roomId);
         }
-
-        // Method to update room availability
+        
         public static void UpdateRoomAvailability(int roomId, bool isAvailable)
         {
             var roomToUpdate = _rooms.Find(room => room.RoomId == roomId);
